@@ -11,6 +11,10 @@
     border-radius: 4px;
 }
 
+.blog-cards:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 5);
+}
 .blog-card-image > img {
     object-fit: cover;
     width: 100%;
